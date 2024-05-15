@@ -45,6 +45,7 @@
 
 ## Output:
 ![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/6c0fdf50-d1ea-426d-830d-157bef6d369e)
+![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/8209dc89-956e-4c7a-9021-edbf1d2eee2f)
 
 ![image](https://github.com/Dharsanrameshkumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870430/633a13e4-45a2-4a60-b4d2-021452ef4ab0)
 
